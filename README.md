@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A Backend engineer from Dar es Salaam, TZ</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saintt" alt="saintt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms3c" alt="ms3c" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ems3c_" target="blank"><img src="https://img.shields.io/twitter/follow/ems3c_?logo=twitter&style=for-the-badge" alt="ems3c_" /></a> </p>
 
-- 🔭 I’m currently working on [ravigacloud](https://github.com/saintt/ravigacloud)
+- 🔭 I’m currently working on [ravigacloud](https://github.com/ms3c/ravigacloud)
 
-- 👨‍💻 All of my projects are available at [https://github.com/saintt/](https://github.com/saintt/)
+- 👨‍💻 All of my projects are available at [https://github.com/ms3c/](https://github.com/saintt/)
 
 - 📝 I regularly write articles on [https://blog.neurotech.africa/](https://blog.neurotech.africa/)
 
