@@ -1,4 +1,3 @@
-![image](https://github.com/ms3c/ms3c/assets/37941160/5a0ea9dc-054b-4f4d-94a3-027cb805adcb)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A Backend engineer from Dar es Salaam, TZ</h3>
 
