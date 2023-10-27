@@ -7,9 +7,11 @@
 
 - 📝 I regularly write articles on [https://blog.neurotech.africa/](https://blog.neurotech.africa/)
 
+- 📝 I regularly write RFC on [https://rfc.darlabs.tech](https://rfc.darlabs.tech/rfc/rfc-tz00001.html)
+
 - 💬 Ask me about **c++,c, python, golang, ruby, php**
 
-- 📫 How to reach me **mo@ravigacloud.com**
+- 📫 How to reach me **em.sec@aol.com**
 
 - ⚡ Fun fact **I am sarcastic**
 
