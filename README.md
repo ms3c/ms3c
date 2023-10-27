@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<p align="left"> <a href="https://twitter.com/ems3c_" target="blank"><img src="https://img.shields.io/twitter/follow/msecurity_?logo=twitter&style=for-the-badge" alt="msecurity_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/msecurity_" target="blank"><img src="https://img.shields.io/twitter/follow/msecurity_?logo=twitter&style=for-the-badge" alt="msecurity_" /></a> </p>
 
 - 🔭 I’m currently working on [ravigacloud](https://github.com/ms3c/ravigacloud)
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://blog.neurotech.africa/](https://blog.neurotech.africa/)
 
-- 💬 Ask me about **c++,c, python**
+- 💬 Ask me about **c++,c, python, golang, ruby, php**
 
 - 📫 How to reach me **mo@ravigacloud.com**
 
