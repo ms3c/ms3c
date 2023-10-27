@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ems3c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ems3c_" height="30" width="40" /></a>
+<a href="https://twitter.com/msecurity_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msecurity_" height="30" width="40" /></a>
 <a href="https://medium.com/@errno.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@errno.h" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sinsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinsoft" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ms3c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinsoft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
