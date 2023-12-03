@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<p align="left"> <a href="https://twitter.com/msecurity_" target="blank"><img src="https://img.shields.io/twitter/follow/msecurity_?logo=twitter&style=for-the-badge" alt="msecurity_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/msecurity_" target="blank"><img src="https://img.shields.io/twitter/follow/msecurity_?logo=twitter&style=for-the-badge" alt="emsec_" /></a> </p>
 
 - 📝 I regularly write articles on [https://blog.neurotech.africa/](https://blog.neurotech.africa/)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emsec_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msecurity_" height="30" width="40" /></a>
+<a href="https://twitter.com/emsec_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emsec_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
