@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <p align="left"> <a href="https://twitter.com/msecurity_" target="blank"><img src="https://img.shields.io/twitter/follow/msecurity_?logo=twitter&style=for-the-badge" alt="msecurity_" /></a> </p>
 
-- 🔭 I’m currently working on [ravigacloud](https://github.com/ms3c/ravigacloud)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ms3c/](https://github.com/ms3c/)
-
 - 📝 I regularly write articles on [https://blog.neurotech.africa/](https://blog.neurotech.africa/)
 
 - 📝 I regularly write RFC on [https://rfc.darlabs.tech](https://rfc.darlabs.tech/rfc/rfc-tz00001.html)
 
-- 💬 Ask me about **c++,c, python, golang, ruby, php**
+- 💬 Ask me about **C/C++, Java, Python, Golang, ruby, php**
 
 - 📫 How to reach me **em.sec@aol.com**
-
-- ⚡ Fun fact **I am sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
