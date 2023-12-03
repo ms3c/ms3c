@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<p align="left"> <a href="https://twitter.com/msecurity_" target="blank"><img src="https://img.shields.io/twitter/follow/msecurity_?logo=twitter&style=for-the-badge" alt="emsec_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/msecurity_" target="blank"><img src="https://img.shields.io/twitter/follow/emsec_?logo=twitter&style=for-the-badge" alt="emsec_" /></a> </p>
 
 - 📝 I regularly write articles on [https://blog.neurotech.africa/](https://blog.neurotech.africa/)
 
